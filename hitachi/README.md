@@ -1,0 +1,2 @@
+hitachixpeakers hackathon
+不良品検知コンペ
